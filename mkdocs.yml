@@ -1,4 +1,4 @@
-site_name: AIA (Advanced Interrupt Architecture) for Litex
+site_name: AIA for Litex
 repo_name: disdi/AIA_litex
 repo_url: https://github.com/disdi/AIA_litex
 site_url: https://saketsinha.de/
@@ -15,7 +15,7 @@ nav:
       - nav/development/development-guide.md
 
 theme:
-  name: material
+  name: mkdocs
   favicon: assets/favicon.ico
   logo: assets/logo.png
   theme_style: light
