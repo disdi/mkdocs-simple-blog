@@ -1,21 +1,19 @@
-site_name: AIA for Litex
-repo_name: disdi/AIA_litex
-repo_url: https://github.com/disdi/AIA_litex
-site_url: https://saketsinha.de/
+site_name: Real Time Litex Extension
+repo_name: disdi/mkdocs-simple-blog
+repo_url: https://github.com/disdi/mkdocs-simple-blog
+site_url: https://saketsinha.de/mkdocs-simple-blog/
 copyright: sake sinha
 
 nav:
     - Home: index.md
     - Getting Started: nav/getting-started.md
-    - Components:
-      - nav/components/footer.md
-    - Styles:
-      - nav/styles/colors.md
+    - Architecture:
+      - nav/architecture/overview.md
     - Development:
       - nav/development/development-guide.md
 
 theme:
-  name: mkdocs
+  name: material
   favicon: assets/favicon.ico
   logo: assets/logo.png
   theme_style: light
